@@ -1,0 +1,3 @@
+마음챙김 영상: mindfulness.mp4
+통증신경과학교육 영상: pne.mp4
+또는 index.html 상단의 YOUTUBE_URL에 영상 주소를 넣으세요.
